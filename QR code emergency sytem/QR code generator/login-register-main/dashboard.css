@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #494eea;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+main {
+    padding: 20px;
+}
+
+.objectives {
+    margin-bottom: 30px;
+}
+
+.objectives h2 {
+    color: #494eea;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.objectives ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.objectives li {
+    margin-bottom: 10px;
+}
+
+.action {
+    text-align: center;
+}
+
+.action h2 {
+    color: #494eea;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.generate-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #494eea;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.generate-link:hover {
+    background-color: #3c3fa0;
+}
+
+footer {
+    background-color: #494eea;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
